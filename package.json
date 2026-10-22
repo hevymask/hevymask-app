@@ -1,0 +1,16 @@
+{
+  "name": "hevymask-app",
+  "scripts": {
+    "desktop": "pnpm --filter @hevymask-app/desktop",
+    "mobile": "pnpm --filter @hevymask-app/mobile"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.14.0",
+      "onFail": "download"
+    }
+  },
+  "packageManager": "pnpm@12.14.0",
+  "type": "module"
+}

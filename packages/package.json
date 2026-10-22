@@ -1,0 +1,9 @@
+{
+  "name": "@hevymask-app/packages",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}
