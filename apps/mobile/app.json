@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "hevymask.dev",
+    "slug": "hevymask-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -46,7 +46,7 @@
         }
       },
       "eas": {
-        "projectId": "df79f1ce-ce39-4a63-80b1-89054928dd84"
+        "projectId": "d7c06107-ebfa-4811-a7c4-93282b99751e"
       }
     }
   }
